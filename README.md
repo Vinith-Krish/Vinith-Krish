@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student pursuing My Bachelor's in ECE <br> Data Science and AI enthusiast
+A student pursuing  Bachelor's in ECE <br> Data Science and AI enthusiast
 
 
 ## 🌐 Socials:
