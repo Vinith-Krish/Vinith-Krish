@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student pursuing  Bachelor's in ECE <br> Data Science and AI enthusiast
+A passionate learner and user of AI Tools eager to contribute in the field of AI and Data Science
 
 
 ## 🌐 Socials:
