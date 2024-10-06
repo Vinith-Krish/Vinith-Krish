@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on Artificial Intelligence and Data Science<br>🌱 I’m currently learning Generative AI
+🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on Artificial Intelligence and Data Science<br>🌱 I’m currently learning Generative AI <br>Reach Me-[Email](mailto:vinithkrishna20@gmail.com)
 
 
 ## 🌐 Socials:
